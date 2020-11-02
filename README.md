@@ -1,7 +1,7 @@
 ### Hi there, I'm Manoj - aka [ManojKL][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://manojkolpe.mystrikingly.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](http://manojkolpe.mystrikingly.com/)
+[![Website](https://img.shields.io/website?label=manojkolpe.mystrikingly.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://manojkolpe.mystrikingly.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/manojkl?color=1DA1F2&logo=twitter&style=for-the-badge)](http://manojkolpe.mystrikingly.com/)
 
 ## I'm a Student, Developer!!
 

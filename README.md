@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love outdoor games/travel and try out new things.
 
-<img src="https://github.com/Manojkl/Manojkl/blob/main/code.gif" width="500" height="300" />
+<img src="https://github.com/Manojkl/Manojkl/blob/main/code.gif" width="500" height="300" /><img src="https://github.com/Manojkl/Manojkl/blob/main/cat_code.gif" width="500" height="300"/>
 
 <!-- ### Spotify Playing 🎧
 

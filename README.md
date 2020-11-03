@@ -1,7 +1,7 @@
 ### Hi there, I'm Manoj - aka [ManojKL][website] 👋
 
-[![Website](https://img.shields.io/website?label=manojkolpe.mystrikingly.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://manojkolpe.mystrikingly.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/manojkl?color=1DA1F2&logo=twitter&style=for-the-badge)](http://manojkolpe.mystrikingly.com/)
+[![Website](https://img.shields.io/website?url=http%3A%2F%2Fmanojkolpe.mystrikingly.com%2F)](http://manojkolpe.mystrikingly.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/manojkolpe?style=social)](https://twitter.com/manojkolpe?s=08)
 
 ## I'm a Student, Developer!!
 
@@ -19,10 +19,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="manojkolpe.mystrikingly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="manojkolpe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="manojkolpe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="manojkolpe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
 

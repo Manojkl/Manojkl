@@ -1,6 +1,6 @@
 ### Hi there, I'm Manoj - aka [ManojKL][website] 👋
 
-[![Website](https://img.shields.io/website?url=http%3A%2F%2Fmanojkolpe.mystrikingly.com%2F)](http://manojkolpe.mystrikingly.com/)
+[![Website](https://img.shields.io/website?down_color=yellow&down_message=under%20construction&url=http%3A%2F%2Fmanojkolpe.mystrikingly.com%2F)](http://manojkolpe.mystrikingly.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/manojkolpe?style=social)](https://twitter.com/manojkolpe?s=08)
 
 ## I'm a Student, Developer!!

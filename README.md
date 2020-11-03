@@ -42,6 +42,7 @@
 [<img align="left" alt="AI" width="26px" src="https://github.com/Manojkl/Manojkl/blob/main/linux.png" />][LINUX]
 [<img align="left" alt="AI" width="26px" src="https://github.com/Manojkl/Manojkl/blob/main/matlab.jpg" />][MATLAB]
 [<img align="left" alt="AI" width="26px" src="https://github.com/Manojkl/Manojkl/blob/main/opencv.png" />][OPENCV]
+[<img align="left" alt="AI" width="26px" src="https://github.com/Manojkl/Manojkl/blob/main/matplotlib.png" />][MATPLOTLIB]
 
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -102,6 +103,7 @@
 [LINUX]: https://en.wikipedia.org/wiki/Linux
 [MATLAB]: https://en.wikipedia.org/wiki/MATLAB
 [OPENCV]: https://en.wikipedia.org/wiki/OpenCV
+[MATPLOTLIB]: https://en.wikipedia.org/wiki/Matplotlib
 <!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->

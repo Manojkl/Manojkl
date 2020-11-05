@@ -84,6 +84,8 @@
 
 </details>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=manojkl" alt="manojkl" /> </p>
+
 [website]: http://manojkolpe.mystrikingly.com/
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: http://manojkolpe.mystrikingly.com/

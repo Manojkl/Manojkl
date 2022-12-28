@@ -10,7 +10,9 @@
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 - 🥅 2023 Goals: Concentrate on Mental health
 - ⚡ Fun fact: I love outdoor games/travel and try out new things.
-- Look at the bright side
+- Look at the bright side/positive
+- Look at the positive side and leave the negative
+
 <img src="https://github.com/Manojkl/Manojkl/blob/main/code.gif" width="400" height="250" />
 
 <!-- ### Spotify Playing 🎧

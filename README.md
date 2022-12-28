@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I love outdoor games/travel and try out new things.
 - Look at the bright side/positive
 - Look at the positive side and leave the negative
+- Best at one field and have knowledge about other fields
+
 
 <img src="https://github.com/Manojkl/Manojkl/blob/main/code.gif" width="400" height="250" />
 

@@ -8,7 +8,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Concentrate on Mental health
 - ⚡ Fun fact: I love outdoor games/travel and try out new things.
 
 <img src="https://github.com/Manojkl/Manojkl/blob/main/code.gif" width="400" height="250" />

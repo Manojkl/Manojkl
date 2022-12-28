@@ -13,7 +13,7 @@
 - Look at the bright side/positive
 - Look at the positive side and leave the negative
 - Best at one field and have knowledge about other fields
-
+- Something that make everyone happy
 
 <img src="https://github.com/Manojkl/Manojkl/blob/main/code.gif" width="400" height="250" />
 

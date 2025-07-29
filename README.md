@@ -17,6 +17,7 @@
 - IT
 
 <img src="https://github.com/Manojkl/Manojkl/blob/main/code.gif" width="400" height="250" />
+<img width="673" height="451" alt="Screenshot 2025-07-29 at 8 30 53 AM" src="https://github.com/user-attachments/assets/21f40da6-dfe3-4742-8db4-e0330641ba98" />
 
 <!-- ### Spotify Playing 🎧
 
